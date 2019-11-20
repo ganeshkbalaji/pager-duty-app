@@ -11,8 +11,8 @@ module.exports = {
       "operatorsAliases": false
     },
     "test": {
-      "username": "postgres",
-      "password": null,
+      "username": "ganeshkbalaji",
+      "password": "test",
       "database": "book_test",
       "host": "127.0.0.1",
       "dialect": "postgres",
